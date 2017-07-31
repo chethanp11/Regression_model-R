@@ -1,3 +1,2 @@
-# Data-Science
-Share Data Science Methods and Techniques using widely used programming languages.
-Add simple programs for beginners to understand and practice Data Science and Machine Learning Methodologies.
+# Regression Model Development, Assumptions testing, Visualization and Model Validation using R Programming
+The Projects provides updated methodology to develop regression model , create graphical visualization, validate assumtions of linearity and apply required data transformation and finally Validate the model for its accuracy in prediction
