@@ -3,12 +3,12 @@
 #### SIMPLE LINEAR REGRESSION #################
 
 
-
 ## Importing the dataset #############
 ## Importing the dataset #############
 setwd("D:\\Knowledge\\MACHINE_LEARNING_TOTAL\\04.1.1 Linear_Regression")
 getwd()
 dir()
+
 ls()
 # Alt+Shift+K gives cheat sheet
 # Slelect function and hit F1 for help - shortcut
