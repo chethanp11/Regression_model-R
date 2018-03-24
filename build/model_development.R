@@ -5,7 +5,7 @@
 
 ## Importing the dataset #############
 ## Importing the dataset #############
-setwd("D:\\Knowledge\\MACHINE_LEARNING_TOTAL\\04.1.1 Linear_Regression")
+setwd("./data/")
 getwd()
 dir()
 
